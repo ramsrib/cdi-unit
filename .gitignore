@@ -2,3 +2,4 @@ target
 .*
 !/.gitignore
 !/.travis.yml
+*.iml
